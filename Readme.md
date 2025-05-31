@@ -2,7 +2,6 @@
 
 A comprehensive calculator application featuring Basic, Scientific, and Programmer modes with C++ backend and modern web frontend.
 
-![Calculator Demo](https://img.shields.io/badge/.shields.io/badge
 
 ### 📱 Basic Calculator
 - Standard arithmetic operations (+, -, ×, ÷)
